@@ -8,7 +8,7 @@ This project is the creation of a system based on a high school competition, in 
 
 This is not yet a community development project, so there is no possibility for collaboration beyond possible ideas.
 
-#🍿 Fun facts
+# 🍿 Fun facts
 
 A bunch of idiots who spend the night on this project instead of sleeping.
 
