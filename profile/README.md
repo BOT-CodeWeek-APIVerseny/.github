@@ -1,12 +1,15 @@
 ## CodeWeek - API Competition Project
 
-🙋‍♀️ A short introduction
+# 🙋‍♀️ A short introduction
+
 This project is the creation of a system based on a high school competition, in which students have to solve different tasks with REST API endpoints, in a free room environment.
 
-🌈 Contribution guidelines
+# 🌈 Contribution guidelines
+
 This is not yet a community development project, so there is no possibility for collaboration beyond possible ideas.
 
-🍿 Fun facts
+#🍿 Fun facts
+
 A bunch of idiots who spend the night on this project instead of sleeping.
 
 <!--
