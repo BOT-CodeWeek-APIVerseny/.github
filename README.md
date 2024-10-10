@@ -1,1 +1,2 @@
-# .github
+# CodeWeek - API Competition Project
+
